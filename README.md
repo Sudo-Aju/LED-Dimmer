@@ -1,3 +1,5 @@
+# RC CIRCUIT THAT DIMS THE LIGHT WITH TIME
+
 this project is a resistor-capacitor circuit powered by a dc source it demonstrates how voltage is divided across multiple stages and how a capacitor with a resisitor can delay the LED's turning on and off.
 
 
